@@ -26,7 +26,7 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class apimTest {
+public class ApimTest {
 
     @Test public static void main(String[] args) {
         int exitCode=1;
