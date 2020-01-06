@@ -1,4 +1,4 @@
-## Sample test cases for AWS Pipeline WSO2EI
+## Sample test cases for AWS Pipeline WSO2APIM
 
 Sample product artifacts and and sample test cases for WSO2 API Manager. This repository is used as the sample for artifacts repository in WSO2 AWS pipeline for WSO2APIM.
 
